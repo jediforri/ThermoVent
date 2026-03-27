@@ -23,3 +23,5 @@ COST BREAKDOWN:
 - Total $122
 
 ![design of thermo-jacket](https://github.com/jediforri/ThermoVent/blob/main/IMG_5955.jpg)
+
+![circuit-design](https://github.com/jediforri/ThermoVent/blob/main/IMG_6587.jpg)
