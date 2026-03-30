@@ -6,6 +6,8 @@ ABOUT ME: [I design and sew my own clothes](https://photos.app.goo.gl/d4ktTZewXS
 
 HOW TO MAKE IT: An Arduino reads a temperature sensor sewn into the inner lining near the chest. When it detects I'm running hot, it sends a signal to a switching component called a MOSFET — essentially a tiny electronic gate that lets current flow to a special wire called nitinol. Nitinol is a shape memory alloy: it looks like regular wire, but when electricity heats it up, it physically shortens. That contraction pulls a tab on the vent flap and opens it. When the Arduino cuts the current, the wire cools, and a small elastic band pulls the flap closed again. [Here is a diagram/schematic of how it will work](https://github.com/jediforri/ThermoVent/blob/main/IMG_6587.jpg).
 
+[Here is a wiring diagram of how it will work](https://github.com/jediforri/ThermoVent/blob/main/Screenshot%202026-03-29%20at%208.24.jpg)
+
 MATERIAL: I'd never heard of nitinol before this project. It's used in medical devices and aerospace engineering — but almost never in clothing. That's what drew me to it.
 
 TECH: I will learn how MOSFETs work, how to manage a LiPo battery safely, and how to work with nitinol — a material I've never used before. I'm also figuring out how to route wiring through a garment without it showing or restricting movement. I know how to sew and build patterns, so the construction side feels manageable. The electronics are the new challenge, and that's exactly why I want to do this.
