@@ -26,4 +26,6 @@ COST BREAKDOWN:
 
 ![design of thermo-jacket](https://github.com/jediforri/ThermoVent/blob/main/IMG_5955.jpg)
 
+![wiring design](https://github.com/jediforri/ThermoVent/blob/main/Screenshot%202026-03-29%20at%208.24.jpg)
+
 ![circuit-design](https://github.com/jediforri/ThermoVent/blob/main/IMG_6587.jpg)
